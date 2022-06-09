@@ -1,0 +1,9 @@
+setup git
+
+setup domain
+
+parse data from health into python
+
+display data on webserver
+
+store data on webserver MySQL
